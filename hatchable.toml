@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Ultimate Transformation Cohort"
+description = "An easy-to-understand 60-day health learning cohort with lessons, examples, action plans, and live-class placeholders."
